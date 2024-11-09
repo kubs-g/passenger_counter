@@ -1,0 +1,49 @@
+body{
+	background-image: url("images.jpe");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	font-weight: bold;
+	text-align: center;
+	color: white;
+
+}
+
+h1{
+	font-size: 70px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h2{
+	font-size: 80px;
+	margin-top: 0;
+	margin-bottom: 50px;
+
+}
+
+#count-el{
+	color: red;
+}
+
+
+button{
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-weight: bold;
+	width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#incriment-btn{
+	background: darkred;
+}
+
+#save-btn{
+	background: darkgreen;
+}
+
+ 
